@@ -18,37 +18,37 @@ This repository is inspired by [Teach Yourself Move] and [Awesome Move].
   * Create your own new examples using the provided library/framework.
   * Read whatever seems interesting!
 
-| Move                                                            | Aptos                               | Sui                                            |
-|-----------------------------------------------------------------|-------------------------------------|------------------------------------------------|
-| **Introduce to Move**                                           |                                     |                                                | 
-| [x] `read` [This Roadmap's instructions](#recommended-sequence) |                                     |                                                | 
-| [ ] `do` [Move official tutorial]                               |                                     |                                                |
-| [ ] `read` [Move Prover User Guide]                             |                                     |                                                |
-| [ ] `read` [Move Specification Language]                        |                                     |                                                |
-| [ ] `do` [Zellic's Move  Prover tutorial]                       |                                     |                                                |
-| [ ] `explore` the [Move prover][move-prover]                    |                                     |                                                |
-| [ ] `read` [Xangle’s Comparison Article (KR)]                   |                                     |                                                |
-| [ ] `read` [Aptos Labs' Block-STM Article]                      |                                     |                                                |
-| [ ] `read` [Block-STM paper] (sections 1 & 2)                   |                                     |                                                |
-| **Installation**                                                |                                     |                                                | 
-|                                                                 | [ ] `do` [Getting started]          | [ ] `do` [Building Sui]                        |
-| **Using CLI tools**                                             |                                     |                                                | 
-|                                                                 | [ ] `do` [Using Aptos CLI]          | [ ] `do` [Use Sui CLI]                         |
-| **Creating Transaction via RPC**                                |                                     |                                                | 
-|                                                                 | [ ] `read` [Transactions and states]| [ ] `do` [Connect to Sui Devnet]               |
-|                                                                 | [ ] `do` [Your first transaction]   | [ ] `do` [Sui TicTacToe]                       |
-|                                                                 | [ ] `read` [Accounts]               |                                                |
-|                                                                 | [ ] `do` [Your first NFT]           |                                                |
-| **Build Move Module**                                           |                                     |                                                | 
-| [ ] `read` [Move book] (Introduction-4)                         |                                     |                                                |
-| [ ] `do` [move-cli] embedded tutorial                           |                                     |                                                |
-| [ ] `read` [Move book] (chapters 5-9)                           | [ ] `do` [Your first Move module]   | [ ] `do` [Write Smart Contracts with Sui Move] |
-| [ ] `read` [Move book] (chapters 10-14)                         | [ ] `do` [Your first dApp]          | [ ] `do` [Programming Objects Tutorial]        |
-| [ ] `read` [Move book] (chapters 15-19)                         | [ ] `do` [Your first coin]          |                                                |
-| [ ] `read` [Move book] (chapters 20-23)                         | [ ] `explore` the [Aptos framework] |                                                |
-| [ ] `read` [Move book] (chapters 24-27)                         |                                     |                                                |
-| **Node Operation**                                              |                                     |                                                |
-|                                                                 | [ ] `explore` [Nodes Home]          | [ ] `do` [Talk with Sui]                       |
+| Move                                                                     | Aptos                                         | Sui                                                     |
+|--------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------|
+| **Introduce to Move**                                                    |                                               |                                                         | 
+| <li>[x] `read` [This Roadmap's instructions](#recommended-sequence)</li> |                                               |                                                         | 
+| <li>[ ] `do` [Move official tutorial]</li>                               |                                               |                                                         |
+| <li>[ ] `read` [Move Prover User Guide]</li>                             |                                               |                                                         |
+| <li>[ ] `read` [Move Specification Language]</li>                        |                                               |                                                         |
+| <li>[ ] `do` [Zellic's Move  Prover tutorial]</li>                       |                                               |                                                         |
+| <li>[ ] `explore` the [Move prover][move-prover]</li>                    |                                               |                                                         |
+| <li>[ ] `read` [Xangle’s Comparison Article (KR)]</li>                   |                                               |                                                         |
+| <li>[ ] `read` [Aptos Labs' Block-STM Article]</li>                      |                                               |                                                         |
+| <li>[ ] `read` [Block-STM paper] (sections 1 & 2)</li>                   |                                               |                                                         |
+| **Installation**                                                         |                                               |                                                         | 
+|                                                                          | <li>[ ] `do` [Getting started]</li>           | <li>[ ] `do` [Building Sui]</li>                        |
+| **Using CLI tools**                                                      |                                               |                                                         | 
+|                                                                          | <li>[ ] `do` [Using Aptos CLI]</li>           | <li>[ ] `do` [Use Sui CLI]</li>                         |
+| **Creating Transaction via RPC**                                         |                                               |                                                         | 
+|                                                                          | <li>[ ] `read` [Transactions and states]</li> | <li>[ ] `do` [Connect to Sui Devnet]</li>               |
+|                                                                          | <li>[ ] `do` [Your first transaction]</li>    | <li>[ ] `do` [Sui TicTacToe]</li>                       |
+|                                                                          | <li>[ ] `read` [Accounts]</li>                |                                                         |
+|                                                                          | <li>[ ] `do` [Your first NFT]</li>            |                                                         |
+| **Build Move Module**                                                    |                                               |                                                         | 
+| <li>[ ] `read` [Move book] (Introduction-4)</li>                         |                                               |                                                         |
+| <li>[ ] `do` [move-cli] embedded tutorial</li>                           |                                               |                                                         |
+| <li>[ ] `read` [Move book] (chapters 5-9)</li>                           | <li>[ ] `do` [Your first Move module]</li>    | <li>[ ] `do` [Write Smart Contracts with Sui Move]</li> |
+| <li>[ ] `read` [Move book] (chapters 10-14)</li>                         | <li>[ ] `do` [Your first dApp]</li>           | <li>[ ] `do` [Programming Objects Tutorial]</li>        |
+| <li>[ ] `read` [Move book] (chapters 15-19)</li>                         | <li>[ ] `do` [Your first coin]</li>           |                                                         |
+| <li>[ ] `read` [Move book] (chapters 20-23)</li>                         | <li>[ ] `explore` the [Aptos framework]</li>  |                                                         |
+| <li>[ ] `read` [Move book] (chapters 24-27)</li>                         |                                               |                                                         |
+| **Node Operation**                                                       |                                               |                                                         |
+|                                                                          | <li>[ ] `explore` [Nodes Home]</li>           | <li>[ ] `do` [Talk with Sui]</li>                       |
 
 <!-- Alphabetized reference links -->
 
@@ -56,8 +56,8 @@ This repository is inspired by [Teach Yourself Move] and [Awesome Move].
 [Aptos Labs' Block-STM Article]:        https://medium.com/aptoslabs/block-stm-how-we-execute-over-160k-transactions-per-second-on-the-aptos-blockchain-3b003657e4ba
 [Awesome Move]:                         https://github.com/MystenLabs/awesome-move
 [Block-STM paper]:                      https://arxiv.org/pdf/2203.06871.pdf
-[Building Sui]                          https://docs.sui.io/build
-[Connect to Sui Devnet]                 https://docs.sui.io/build/devnet
+[Building Sui]:                         https://docs.sui.io/build
+[Connect to Sui Devnet]:                https://docs.sui.io/build/devnet
 [Getting started]:                      https://aptos.dev/guides/getting-started
 [Move book]:                            https://move-language.github.io/move/introduction.html
 [move-cli]:                             https://github.com/move-language/move/tree/main/language/tools/move-cli
@@ -65,13 +65,13 @@ This repository is inspired by [Teach Yourself Move] and [Awesome Move].
 [Move official tutorial]:               https://github.com/move-language/move/tree/main/language/documentation/tutorial
 [Move Prover User Guide]:               https://github.com/move-language/move/blob/main/language/move-prover/doc/user/prover-guide.md
 [Move Specification Language]:          https://github.com/move-language/move/blob/main/language/move-prover/doc/user/spec-lang.md
-[Nodes Home]                            https://aptos.dev/nodes/nodes-landing/
-[Sui TicTacToe]                         https://docs.sui.io/explore/tutorials
-[Talk with Sui]                         https://docs.sui.io/build/comms
+[Nodes Home]:                           https://aptos.dev/nodes/nodes-landing/
+[Sui TicTacToe]:                        https://docs.sui.io/explore/tutorials
+[Talk with Sui]:                        https://docs.sui.io/build/comms
 [Teach Yourself Move]:                  https://github.com/econia-labs/teach-yourself-move
 [Transactions and states]:              https://aptos.dev/concepts/basics-txns-states
-[Use Sui CLI]|                          https://docs.sui.io/devnet/build/cli-client
-[Using Aptos CLI]                       https://aptos.dev/cli-tools/aptos-cli-tool/use-aptos-cli/
+[Use Sui CLI]:                          https://docs.sui.io/devnet/build/cli-client
+[Using Aptos CLI]:                      https://aptos.dev/cli-tools/aptos-cli-tool/use-aptos-cli/
 [Write Smart Contracts with Sui Move]:  https://docs.sui.io/build/move
 [Xangle’s Comparison Article (KR)]:     https://xangle.io/insight/research/62e34d357a80905a1f4749c5
 [Your first coin]:                      https://aptos.dev/tutorials/your-first-coin
