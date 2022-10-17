@@ -53,6 +53,7 @@ This repository is inspired by [Teach Yourself Move] and [Awesome Move].
 <!-- Alphabetized reference links -->
 
 [Accounts]:                             https://aptos.dev/concepts/basics-accounts
+[Aptos framework]:                      https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/framework
 [Aptos Labs' Block-STM Article]:        https://medium.com/aptoslabs/block-stm-how-we-execute-over-160k-transactions-per-second-on-the-aptos-blockchain-3b003657e4ba
 [Awesome Move]:                         https://github.com/MystenLabs/awesome-move
 [Block-STM paper]:                      https://arxiv.org/pdf/2203.06871.pdf
@@ -66,6 +67,7 @@ This repository is inspired by [Teach Yourself Move] and [Awesome Move].
 [Move Prover User Guide]:               https://github.com/move-language/move/blob/main/language/move-prover/doc/user/prover-guide.md
 [Move Specification Language]:          https://github.com/move-language/move/blob/main/language/move-prover/doc/user/spec-lang.md
 [Nodes Home]:                           https://aptos.dev/nodes/nodes-landing/
+[Programming Objects Tutorial]:         https://docs.sui.io/build/programming-with-objects
 [Sui TicTacToe]:                        https://docs.sui.io/explore/tutorials
 [Talk with Sui]:                        https://docs.sui.io/build/comms
 [Teach Yourself Move]:                  https://github.com/econia-labs/teach-yourself-move
