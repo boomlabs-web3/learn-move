@@ -30,15 +30,19 @@ This repository is inspired by [Teach Yourself Move] and [Awesome Move].
 | <li>[ ] `read` [Xangle’s Comparison Article (KR)]</li>                   |                                               |                                                         |
 | <li>[ ] `read` [Aptos Labs' Block-STM Article]</li>                      |                                               |                                                         |
 | <li>[ ] `read` [Block-STM paper] (sections 1 & 2)</li>                   |                                               |                                                         |
+|                                                                          |                                               |                                                         |
 | **Installation**                                                         |                                               |                                                         | 
 |                                                                          | <li>[ ] `do` [Getting started]</li>           | <li>[ ] `do` [Building Sui]</li>                        |
+|                                                                          |                                               |                                                         |
 | **Using CLI tools**                                                      |                                               |                                                         | 
 |                                                                          | <li>[ ] `do` [Using Aptos CLI]</li>           | <li>[ ] `do` [Use Sui CLI]</li>                         |
+|                                                                          |                                               |                                                         |
 | **Creating Transaction via RPC**                                         |                                               |                                                         | 
 |                                                                          | <li>[ ] `read` [Transactions and states]</li> | <li>[ ] `do` [Connect to Sui Devnet]</li>               |
 |                                                                          | <li>[ ] `do` [Your first transaction]</li>    | <li>[ ] `do` [Sui TicTacToe]</li>                       |
 |                                                                          | <li>[ ] `read` [Accounts]</li>                |                                                         |
 |                                                                          | <li>[ ] `do` [Your first NFT]</li>            |                                                         |
+|                                                                          |                                               |                                                         |
 | **Build Move Module**                                                    |                                               |                                                         | 
 | <li>[ ] `read` [Move book] (Introduction-4)</li>                         |                                               |                                                         |
 | <li>[ ] `do` [move-cli] embedded tutorial</li>                           |                                               |                                                         |
@@ -47,8 +51,10 @@ This repository is inspired by [Teach Yourself Move] and [Awesome Move].
 | <li>[ ] `read` [Move book] (chapters 15-19)</li>                         | <li>[ ] `do` [Your first coin]</li>           |                                                         |
 | <li>[ ] `read` [Move book] (chapters 20-23)</li>                         | <li>[ ] `explore` the [Aptos framework]</li>  |                                                         |
 | <li>[ ] `read` [Move book] (chapters 24-27)</li>                         |                                               |                                                         |
+|                                                                          |                                               |                                                         |
 | **Node Operation**                                                       |                                               |                                                         |
 |                                                                          | <li>[ ] `explore` [Nodes Home]</li>           | <li>[ ] `do` [Talk with Sui]</li>                       |
+
 
 <!-- Alphabetized reference links -->
 
